@@ -1,0 +1,6 @@
+---
+# vars file for php
+    php_package:
+      - php
+      - php-mysql
+      - php-fpm
